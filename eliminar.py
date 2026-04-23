@@ -1,0 +1,2 @@
+def eliminar():
+    print("Eliminar")
